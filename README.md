@@ -1,4 +1,4 @@
-# Cognifyz-Internship
+# Cognifyz_Technologies-Internship
 Java Development Internship<br>
 #Level1_Task1 completed{Assigned by Cognifyz Technologies}(Date:21/12/2024)[Temperatureconvertor].<br>
 #Level1_Task2 completed{Assigned by Cognifyz Technologies}(Date:25/12/2024)[Palindrome checker].<br>
