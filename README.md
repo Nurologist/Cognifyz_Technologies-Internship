@@ -5,3 +5,5 @@ Java Development Internship<br>
 #Level1_Task3 completed{Assigned by Cognifyz Technologies}(Date:28/12/2024)[Student Grade Calculator].<br>
 #Level1_Task4 completed{Assigned by Cognifyz Technologies}(Date:29/12/2024)[Random Password Generator].<br>
 #Level2_Task1 completed{Assigned by Cognifyz Technologies}(Date:30/12/2024)[Tic Tac Toe Game].<br>
+#Level2_Task2 completed{Assigned by Cognifyz Technologies}(Date:31/12/2024)[Password Strength Checker].<br>
+#Level2_Task3 completed{Assigned by Cognifyz Technologies}(Date:02/12/2024)[File Encryption/Decryption].<br>
