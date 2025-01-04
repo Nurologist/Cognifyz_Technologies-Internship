@@ -113,14 +113,14 @@ This internship at **Cognifyz Technologies** helped me:
 
 ## **Technologies Used**
 - **Java**: Core programming language for all tasks.
-- **IDE**: Eclipse/IntelliJ IDEA (or any Java-supported IDE).
+- **IDE**: IntelliJ IDEA .
 
 ---
 
 ## **Contact**
 If you have any questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: meghrajdhakal966@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)
 
 ---
 
