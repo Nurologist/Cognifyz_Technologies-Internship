@@ -104,7 +104,7 @@ This internship at **Cognifyz Technologies** helped me:
 ## **How to Use**
 1. Clone this repository using:
    ```bash
-   git clone https://github.com/your-username/cognifyz-technologies-internship.git
+   git clone https://github.com/Nurologist/Cognifyz_Technologies-Internship.git
    ```
 2. Navigate to each task folder to find source code and instructions for execution.
 3. Run the programs in your preferred Java IDE or via the terminal.
