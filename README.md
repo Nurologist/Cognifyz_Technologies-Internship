@@ -92,12 +92,36 @@ Welcome to the repository for my **Java Development Internship** projects comple
 
 ---
 
+## **#Level3 - Task 1: Chat Application**
+**Date Completed:** 08/01/2025
+
+### Key Features:
+1. **Two-Terminal Communication:**
+   - Messages typed by the client are displayed on the server terminal.
+   - Messages typed by the server are displayed on the client terminal.
+2. **Real-Time Messaging:**
+   - Enables seamless communication between client and server.
+3. **Multi-threading Implementation:**
+   - Ensures smooth handling of concurrent message exchanges.
+4. **Socket Programming:**
+   - Utilizes Java's `Socket` and `ServerSocket` classes for establishing client-server communication.
+5. **User-Friendly Interface:**
+   - Clear and simple prompts guide users to send and receive messages.
+
+### Technologies & Skills Demonstrated:
+- **Socket Programming:** Expertise in networking concepts and implementation.
+- **Multi-threading:** Effective handling of concurrent processes for real-time communication.
+- **User Interaction:** Crafting responsive input and output mechanisms.
+- **Error Handling:** Ensures stability during unexpected disconnections or input errors.
+
+---
+
 ## **About This Internship**
 This internship at **Cognifyz Technologies** helped me:
 - Enhance my understanding of core Java concepts.
 - Develop real-world applications with practical use cases.
 - Strengthen my programming and problem-solving skills.
-- Gain hands-on experience with file handling, data validation, and error management.
+- Gain hands-on experience with file handling, networking, data validation, and error management.
 
 ---
 
@@ -113,15 +137,16 @@ This internship at **Cognifyz Technologies** helped me:
 
 ## **Technologies Used**
 - **Java**: Core programming language for all tasks.
-- **IDE**: IntelliJ IDEA .
+- **IDE**: IntelliJ IDEA.
 
 ---
 
 ## **Contact**
 If you have any questions or feedback, feel free to reach out:
 - **Email**: meghrajdhakal966@gmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)
+- **LinkedIn**: [https://www.linkedin.com/in/meghraj-dhakal-04a47b284/](https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)
 
 ---
 
 Thank you for visiting my internship portfolio! 🚀
+
