@@ -116,7 +116,7 @@ Welcome to the repository for my **Java Development Internship** projects comple
 
 ---
 
-## **#Level3 - Task 2: Multi-Threaded Banking Application**
+## **#Level3 - Task 2: Multi-Threaded Application**
 **Date Completed:** 09/01/2025
 
 ### Key Features:
