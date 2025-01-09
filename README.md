@@ -116,6 +116,24 @@ Welcome to the repository for my **Java Development Internship** projects comple
 
 ---
 
+## **#Level3 - Task 2: Multi-Threaded Banking Application**
+**Date Completed:** 09/01/2025
+
+### Key Features:
+1. **Concurrency in Action:** Simulated deposit and withdrawal operations by multiple threads on a shared bank account.
+2. **Synchronization with Locks:** Used `ReentrantLock` to ensure thread-safe operations, preventing race conditions and data corruption.
+3. **Dynamic Logging:** Real-time logging of deposit and withdrawal actions for better traceability.
+4. **Thread Identification:** Each thread is identified by its name, making it easy to track operations.
+5. **Final Balance Calculation:** Displays the final account balance after all threads complete their transactions.
+
+### Technologies & Skills Demonstrated:
+- **Multi-threading:** Practical implementation of threads and synchronization.
+- **Lock Mechanism:** Ensured safe access to shared resources using `ReentrantLock`.
+- **Concurrency Concepts:** Learned to handle real-world issues like race conditions and data integrity.
+- **Error Handling:** Ensured stability even in high-concurrency scenarios.
+
+---
+
 ## **About This Internship**
 This internship at **Cognifyz Technologies** helped me:
 - Enhance my understanding of core Java concepts.
@@ -149,4 +167,3 @@ If you have any questions or feedback, feel free to reach out:
 ---
 
 Thank you for visiting my internship portfolio! 🚀
-
