@@ -4,6 +4,11 @@ Welcome to the repository for my **Java Development Internship** projects comple
 
 ---
 
+## **Introduction**
+Hello, I am Meghraj Dhakal, a passionate Java developer and student at the University of Science and Technology. I enjoy solving problems, building practical applications, and constantly expanding my knowledge of programming and technology. This repository reflects my journey and achievements during the Java Development Internship at Cognifyz Technologies.
+
+---
+
 ## **#Level1 - Task 1: Temperature Converter**
 **Date Completed:** 21/12/2024
 
@@ -182,6 +187,11 @@ This internship at **Cognifyz Technologies** helped me:
 If you have any questions or feedback, feel free to reach out:
 - **Email**: meghrajdhakal966@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/meghraj-dhakal-04a47b284/](https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)
+
+---
+
+## **LinkedIn Showcase**
+All the tasks completed during this internship have been posted on LinkedIn. Visitors are encouraged to check them out to explore more insights about the projects and my learning journey.
 
 ---
 
