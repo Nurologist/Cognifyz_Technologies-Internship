@@ -134,6 +134,25 @@ Welcome to the repository for my **Java Development Internship** projects comple
 
 ---
 
+## **#Level3 - Task 3: Calculator Using Swing**
+**Date Completed:** 16/01/2025
+
+### Key Features:
+1. **Interactive GUI:** Built using Java Swing to create a user-friendly calculator interface.
+2. **Basic Operations:** Supports addition, subtraction, multiplication, and division.
+3. **Error Handling:** Displays appropriate error messages for invalid inputs (e.g., division by zero).
+4. **Clear Functionality:** Includes a "Clear" button to reset inputs and results.
+5. **Dynamic Layout:** Ensures the calculator interface is visually appealing and responsive.
+6. **Real-Time Calculations:** Performs calculations instantly upon user interaction with buttons.
+
+### Technologies & Skills Demonstrated:
+- **Swing Framework:** Designed an interactive and visually appealing GUI.
+- **Event Handling:** Captured and processed user actions effectively.
+- **Validation:** Ensured program stability through input validation and error handling.
+- **Object-Oriented Programming:** Utilized OOP principles to maintain clean and modular code.
+
+---
+
 ## **About This Internship**
 This internship at **Cognifyz Technologies** helped me:
 - Enhance my understanding of core Java concepts.
@@ -167,3 +186,4 @@ If you have any questions or feedback, feel free to reach out:
 ---
 
 Thank you for visiting my internship portfolio! 🚀
+
